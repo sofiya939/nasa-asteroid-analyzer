@@ -1,0 +1,19 @@
+# Space Debris Research and Tech Analysis
+
+This folder contains the analytical materials and documentation for the "Orbit & Order" Space Policy project. 
+
+## Article Summary: Space Debris and the Tragedy of the Commons
+**Author:** Sofiya
+**Topic:** Who Should Pay for Cleaning the Orbit?
+**Key Frameworks:** The Tragedy of the Commons, 1967 Outer Space Treaty, Orbital Taxation.
+
+### Project Overview
+This repository bridges the gap between international space law and data analytics. While the written research (published on Medium) focuses on the geopolitical limitations of removing space junk and the legal constraints of the Outer Space Treaty, the accompanying Python script (`main.py`) provides the technical foundation by pulling live near-Earth object data from the NASA NeoWS API.
+
+## Core Arguments from the Research
+1. **The Economic Dilemma:** Low Earth Orbit (LEO) is a classic shared resource ("The Commons"). Without strict international enforcement, individual actors lack the financial incentive to clean up debris, as competitors benefit for free.
+2. **The Legal Hurdle:** Under the 1967 Outer Space Treaty, nations retain permanent jurisdiction over their launched objects. Unauthorized removal of another country's space debris can be legally classified as an aggressive act or space piracy.
+3. **Proposed Solutions:** Implementing an "orbital tax" on mega-constellations (like SpaceX Starlink) to fund international cleaning initiatives, paired with open-source data tracking to monitor collision risks.
+
+---
+*For the full interactive article, visual assets, and community discussions, visit the publication on Medium.*
